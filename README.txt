@@ -19,10 +19,3 @@ convertind-o la tipul Card.
     In pachetul utils am 2 clase, una doar cu constante ("Constants") si una 
 doar cu functii care au rolul de a transforma datele cartilor in obiecte de tip
 JSON pentru a putea fi afisate cu usurinta.
-
-    P.S.: initial am facut push la toata arhiva, nu numai la tema, cu tot cu 
-laboratoare, si de aceea probabil nu o sa se vada toata ierarhia de commit-uri,
-dar pot pune un link spre repo-ul respecitv pe care il voi face public dupa ce
-expira deadline-ul hard.
-
-Link: https://github.com/Volintiru-Mihai-Catalin/OOP-Homework.git
